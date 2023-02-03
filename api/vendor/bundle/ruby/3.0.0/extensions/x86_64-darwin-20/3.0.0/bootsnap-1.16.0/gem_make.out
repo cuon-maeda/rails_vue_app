@@ -1,0 +1,15 @@
+current directory: /Users/maedayuto/rails_vue_app/api/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.16.0/ext/bootsnap
+/Users/maedayuto/.rbenv/versions/3.0.2/bin/ruby -I /Users/maedayuto/.rbenv/versions/3.0.2/lib/ruby/site_ruby/3.0.0 -r ./siteconf20230203-26693-2cfd02.rb extconf.rb
+creating Makefile
+
+current directory: /Users/maedayuto/rails_vue_app/api/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/maedayuto/rails_vue_app/api/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/maedayuto/rails_vue_app/api/vendor/bundle/ruby/3.0.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20230203-26693-1qxl7a/bootsnap
