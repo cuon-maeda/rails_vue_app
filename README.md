@@ -1,1 +1,1 @@
-# rails_vue_app
+研修
